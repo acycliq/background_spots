@@ -602,7 +602,9 @@ function dapiChart(config) {
     // $('#legend').hide();
     $('.leaflet-bottom.leaflet-left').hide();
     $('.leaflet-bottom.leaflet-right').hide();
-    $('.panelsToggle').hide()
+    $('.panelsToggle').hide();
+
+    $('.leaflet-top.leaflet-right').hide(); // hides the collapsible control (top right)
 
 
 }
