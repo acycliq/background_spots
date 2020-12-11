@@ -24,7 +24,6 @@ gsf-save*.*
 *.tiff
 dashboard/img
 
-/dashboard/data/img/262144px/8/
 /dashboard/data/img/262144px/9/
 /dashboard/data/img/262144px/10/
 /dashboard/data/tsv/cellCoords/cellCoords_0_ORIG.tsv
